@@ -1,5 +1,5 @@
 # PaintBukkitGen
-A program to associate MineCraft blocks with hex codes.
+A program to associate MineCraft blocks with hex codes.<br>
 Used as the backend for #PaintBukkitMC and PaintBukkitWeb.
 
 # Description
