@@ -3,8 +3,8 @@ A program to associate MineCraft blocks with hex codes.<br>
 Used as the backend for #PaintBukkitMC and PaintBukkitWeb.
 
 # Description
-This repository is a WIP, and will likely be done before mojang's 1.18 release.
-
+A program to associate MineCraft blocks with hex codes.
+Used as the backend for #PaintBukkitMC and PaintBukkitWeb.
 # Changes
 #### [Version 0.0]
 - Github repo created.
